@@ -1,8 +1,3 @@
-# corpora - Responsive PSD to HTML Website Design
-
-Live Link:  https://clever-shannon-ea860d.netlify.app/
-Code Link:  https://github.com/itzJunaedRayhan/corpora
-
 Hi there,
 I am Passionate web developer with 2+ years of experienced, skilled in JavaScript, React, React-native. Developed 28+ websites, including E Commerce, Travel agencies, Responsive Website Design. Fixed Bugs and design issues using Chrome Dev Tools.
 
@@ -28,4 +23,7 @@ Stay With us:
 Facebook: https://www.facebook.com/itzJunaedRayhan
 Linkedin: https://www.linkedin.com/in/itzJunaedRayhan
 Fiverr: https://www.fiverr.com/itzjunaedrayhan
+
+
+Live Link:  https://clever-shannon-ea860d.netlify.app/
 	
